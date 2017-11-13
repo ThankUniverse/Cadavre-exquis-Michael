@@ -40,3 +40,8 @@ KTHXBYE
 ## There is an element of fun
 ## You find the fun and snap!
 ## **The job's a game**
+
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
