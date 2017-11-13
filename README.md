@@ -57,3 +57,5 @@ Master and branches power
 ### HERE is a tiny joke :sweat_smile:
 Something about subtraction just doesn't add up.
 
+how can you manage all this conflicts? 
+
