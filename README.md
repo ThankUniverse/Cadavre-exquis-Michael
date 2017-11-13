@@ -59,3 +59,10 @@ Something about subtraction just doesn't add up.
 
 how can you manage all this conflicts? 
 
+
+:poop:
+
+I like pies
+
+I dislike remembering all the digtis to pi
+
