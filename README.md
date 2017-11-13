@@ -60,3 +60,11 @@ how can you manage all this conflicts?
  Fortunately, they came upon the saint Git and finally git gud.
 
 developpement
+
+
+
+### THE IMPORTANT THING IS THIS: ###
+
+### TO BE ABLE AT ANY MOMENT TO SACRIFICE WHAT WE ARE FOR WHAT WE COULD BECOME. ###
+
+### (Written by Maurice the Shrimp) ###
