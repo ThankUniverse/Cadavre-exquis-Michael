@@ -7,6 +7,10 @@ A learned art allowing them to shape the world at their convenience ...
 
 PUSH IT TO THE LIMIT
 
+<<<<<<< HEAD
+
+okayyyyyyy
+=======
 ### coucou
 ### petite
 ### perruche
@@ -14,7 +18,11 @@ PUSH IT TO THE LIMIT
 ### Ik ging slapen met een doezoe, werd wakker met een ton
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
+<<<<<<< HEAD
 
 Hello !!
 
 A long time ago in a galaxy far, far away....
+=======
+>>>>>>> 6cbe69a6f8bede2a8a6d8b5c432d069e3d5d6437
+>>>>>>> developpement
