@@ -7,10 +7,9 @@ A learned art allowing them to shape the world at their convenience ...
 
 PUSH IT TO THE LIMIT
 
-<<<<<<< HEAD
+The world was not ready, neither  were them
 
 okayyyyyyy
-=======
 ### coucou
 ### petite
 ### perruche
@@ -18,14 +17,11 @@ okayyyyyyy
 ### Ik ging slapen met een doezoe, werd wakker met een ton
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
-<<<<<<< HEAD
 
 Hello !!
 
 A long time ago in a galaxy far, far away....
-=======
->>>>>>> 6cbe69a6f8bede2a8a6d8b5c432d069e3d5d6437
->>>>>>> developpement
+ 6cbe69a6f8bede2a8a6d8b5c432d069e3d5d6437
 WOW who know this exercise would be so difficult
 
 klsdjflksdjdfviornvuin.lalalksflsmdks.smoking is bad for you
@@ -63,3 +59,4 @@ how can you manage all this conflicts?
  They were getting forked left and right, unable to foresee what was coming. 
  Fortunately, they came upon the saint Git and finally git gud.
 
+developpement
