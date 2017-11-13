@@ -30,3 +30,8 @@ WOW who know this exercise would be so difficult
 
 klsdjflksdjdfviornvuin.lalalksflsmdks.smoking is bad for you
 
+Hello hello. Im lost 
+
+Donate ETH pls: 0x42682dA2a9573a324998EC640d06FE8172F9dd0C
+
+KTHXBYE
