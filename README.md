@@ -57,7 +57,11 @@ Master and branches power
 ### HERE is a tiny joke :sweat_smile:
 Something about subtraction just doesn't add up.
 
-how can you manage all this conflicts? 
+how can you manage all this conflicts?  
+ 
+ As their power grew, their determination withered. 
+ They were getting forked left and right, unable to foresee what was coming. 
+ Fortunately, they came upon the saint Git and finally git gud.
 
 
 :poop:
