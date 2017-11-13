@@ -69,3 +69,6 @@ I dislike remembering all the digtis to pi
 
 
 developpement
+
+“You only have your thoughts and dreams ahead of you. You are someone.
+You mean something.” – Batman
