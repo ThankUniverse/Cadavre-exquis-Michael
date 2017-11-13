@@ -59,4 +59,13 @@ how can you manage all this conflicts?
  They were getting forked left and right, unable to foresee what was coming. 
  Fortunately, they came upon the saint Git and finally git gud.
 
+
+
+:poop:
+
+I like pies
+
+I dislike remembering all the digtis to pi
+
+
 developpement
